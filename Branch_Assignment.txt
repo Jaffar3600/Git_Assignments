@@ -1,0 +1,23 @@
+1. git help --> will give the list of commands
+2. git init --> used to initialize a git repository
+3. git add . --> Adds to staging index
+4. git add <file_name>
+5. git status --> used to view the status
+6. git commit -m "changes" --> used to record a snapshot
+7. git commit -am "changes"
+8. git push origin <branch_name(master)> -->used to push new branches and data in staging area to remote repository
+9. git pull origin <branch_name(master)> -->used to fetch files from remote repository
+10. git branch --> used to list the branches,crteate and manage
+11. git checkout <branch_name> --> used to switch specific branch
+12. git checkout -b <branch_name> --> useed to create branch as well as switch to particular branch
+13. git merge <branch_name> --> used to merge the branch to our current branch
+14. git log --> it will show what operations we perform
+15. git log -n --> To check number of commits
+16. git log --author="name" --> Will show commits related to author
+17. git log --since=yyyy-mm-dd --> will shows commits since date to now
+18. git log --until =yyyy-mm-dd --> will show commits until the date we write
+19. cat <file_name> --> will shows contant of files and opens
+20. cd <folder_name> --> Will opens folder
+
+
+ 
